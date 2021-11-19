@@ -23,3 +23,7 @@ nbproject/*
 cmake-build-*/
 .vs
 *.user
+/sql/updates/hotfixes/master/NameFile.sql
+/sql/updates/hotfixes/master/single sql file.bat
+/sql/updates/world/master/NameFile.sql
+/sql/updates/world/master/single sql file.bat
